@@ -21,7 +21,7 @@
 ## Fun Fact  
 I enjoy exploring both the legal and **"illegal"** sides of the hacking world.  
 
-## Traumatic Scene (Horror/Death)  
+## REALITY 🥶  
 ![Horror Image](https://camo.githubusercontent.com/f09da6773c31cbd2fec58344d95dcb0df1ddb20b758619a3e8d6af756ca2a9d8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32344657374a536f5a36367739414c4b6c692f67697068792e676966)  
 *Image or GIF to represent a traumatic scene.*
 
