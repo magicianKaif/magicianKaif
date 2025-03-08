@@ -13,7 +13,7 @@
 - 📸 **Instagram:** [@magicianslime](https://www.instagram.com/magicianslime)  
 - 💬 **Telegram:** [@magician_slime](https://t.me/magician_slime)  
 - 💻 **GitHub:** [@magicianKaif](https://github.com/magicianKaif)  
-- 🎮 **Discord:** [Join My Discord](https://discord.gg/3yZgswpq)
+- 🎮 **Discord:** [Join My Discord](https://discord.com/invite/8RXNndHR)
 
 ## GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=magicianKaif&show_icons=true&theme=radical)  
