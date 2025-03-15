@@ -1,28 +1,53 @@
-# Hi there! I'm magician slime 👋
+<!-- Banner with a quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=WE+ALL+HAVE+SOME+VULNERABILITY" alt="ADVICE " />
+</p>
 
-> **"I am trying to escape this matrix"**
+# 👋 Shut Up Nigga, I'm Magician Slime!  
+🔹 **Cybersecurity Enthusiast | Ethical Hacker | Developer**  
+🔹 Founder of [Unsec_dark](https://www.instagram.com/unsec_dark/)  
+🔹 Passionate about **Pentesting, OSINT, and the Dark Web**  
 
-## About Me  
-- 👨‍💻 **Name:** Kaif (but you can call me **magician slime**)
-- 🔥 **Passion:** Hacking & Dark Web  
-- 🎓 **College:** K.M.E.S. Jr. College Bhiwandi  
-- 🔗 **Contacts:** I have connections with some professional and some "illegal" ones as well.
-- 💭 **Dream:** Becoming a **Penetration Tester** and the owner of a company called **un-sec**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Always+Learning+New+Things)](https://git.io/typing-svg)  
 
-## Connect with Me  
-- 📸 **Instagram:** [@magicianslime](https://www.instagram.com/magicianslime)  
-- 💬 **Telegram:** [@magician_slime](https://t.me/magician_slime)  
-- 💻 **GitHub:** [@magicianKaif](https://github.com/magicianKaif)  
-- 🎮 **Discord:** [Join My Discord](https://discord.com/invite/8RXNndHR)
+---
 
-## GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=magicianKaif&show_icons=true&theme=radical)  
+## 🚀 About Me  
+💻 I love **breaking & securing systems**!  
+⚡ Learning about **network security, penetration testing, and red teaming**.  
+🔧 Exploring **hacking tools, exploit development, and automation**.  
+📜 Always **documenting & sharing knowledge** via [Unsec_dark](https://www.instagram.com/unsec_dark/).  
+                                                  [Unsec_dark](https://t.me/unsec_dark/)
+---
 
-## Fun Fact  
-I enjoy exploring both the legal and **"illegal"** sides of the hacking world.  
+## 🛠️ Tech & Tools  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3F3F3F?style=for-the-badge&logo=metasploit&logoColor=white)
 
-## REALITY 🥶  
-![Horror Image](https://camo.githubusercontent.com/f09da6773c31cbd2fec58344d95dcb0df1ddb20b758619a3e8d6af756ca2a9d8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32344657374a536f5a36367739414c4b6c692f67697068792e676966)  
-*Image or GIF to represent a traumatic scene.*
+---
 
+## 📊 GitHub Stats  
+![Magician Slime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magicianKaif&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=magicianKaif&layout=compact&theme=radical)  
 
+---
+
+## 📂 Featured Project  
+🔹 **[ScriptHook](https://github.com/magicianKaif/scripthook)** – Custom scripts & automation for security testing.  
+
+---
+
+## 💬 Connect with Me  
+📩 **DM me on Instagram**: [@magicianslime](https://www.instagram.com/magicianslime/)  
+📢 **DM me on Telegram**: [Unsec_dark](https://t.me/magicianslime/)  
+🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/kaifshaikh5006/)  
+📧 **Email**: kaifshaikh5006@gmail.com
+              magicianslime@underworld.dog
+              kaifshaikh5006@proton.me
+
+---
+
+🔥 **Keep Learning, Keep Hacking!** 🔥  
