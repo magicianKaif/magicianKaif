@@ -74,7 +74,7 @@ whoami
 
 - 📧 **Email:** kaifshaikh5006@proton.me
 - 📸 **Instagram:** [@magicianslime](https://www.instagram.com/magicianslime/)
-- ✈️ **Telegram:** [t.me/magicianslime](https://t.me/magicianslime/)
+- ✈️ **Telegram:** [t.me/magician_slime](https://t.me/magician_slime/)
 - 🌐 **Portfolio:** [magicianslime.netlify.app](https://magicianslime.netlify.app)
 
 ---
