@@ -14,7 +14,7 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 ```
 whoami
 > Kaif | Magician Slime
@@ -24,14 +24,14 @@ whoami
 > Brand        : unsec_dark — Teaching cybersecurity to the next generation
 ```
 
-- 🔐 Building real-world offensive security tools
-- 📡 Exploring network protocols, web vulnerabilities, and C2 infrastructure
-- 📢 Sharing knowledge through **[unsec_dark](https://www.instagram.com/unsec_dark/)** on Instagram & Telegram
-- 🎯 Long-term goal: Professional Red Team Operator
+-  Building real-world offensive security tools
+-  Exploring network protocols, web vulnerabilities, and C2 infrastructure
+-  Sharing knowledge through **[unsec_dark](https://www.instagram.com/unsec_dark/)** on Instagram & Telegram
+-  Long-term goal: Professional Red Team Operator
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,20 +44,20 @@ whoami
 
 ---
 
-## 📂 Projects
+##  Projects
 
 | Project | Description |
 |---|---|
-| [🦠 Arysha-Ransomware](https://github.com/magicianKaif/Arysha-Ransomware) | Ransomware written in Python for educational research |
-| [🤖 Control](https://github.com/magicianKaif/Control) | Telegram-based C2 RAT — remote access via bot |
-| [🔍 Domain-Scout](https://github.com/magicianKaif/Domain-Scout) | OSINT tool for extracting intel from web domains |
-| [🔑 LoginForce](https://github.com/magicianKaif/LoginForce) | Brute force tool for login panel testing |
-| [🪝 ScriptHook](https://github.com/magicianKaif/scripthook) | Script to extract critical info from targets |
-| [🔁 LoopHunter](https://github.com/magicianKaif/LoopHunter) | Automated vulnerability finder for websites |
+| [ Arysha-Ransomware](https://github.com/magicianKaif/Arysha-Ransomware) | Ransomware written in Python for educational research |
+| [ Control](https://github.com/magicianKaif/Control) | Telegram-based C2 RAT — remote access via bot |
+| [ Domain-Scout](https://github.com/magicianKaif/Domain-Scout) | OSINT tool for extracting intel from web domains |
+| [ LoginForce](https://github.com/magicianKaif/LoginForce) | Brute force tool for login panel testing |
+| [ ScriptHook](https://github.com/magicianKaif/scripthook) | Script to extract critical info from targets |
+| [ LoopHunter](https://github.com/magicianKaif/LoopHunter) | Automated vulnerability finder for websites |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=magicianKaif&show_icons=true&theme=radical&hide_border=true" width="48%"/>
@@ -70,12 +70,12 @@ whoami
 
 ---
 
-## 📬 Contact
+##  Contact
 
-- 📧 **Email:** kaifshaikh5006@proton.me
-- 📸 **Instagram:** [@magicianslime](https://www.instagram.com/magicianslime/)
-- ✈️ **Telegram:** [t.me/magician_slime](https://t.me/magician_slime/)
-- 🌐 **Portfolio:** [magicianslime.netlify.app](https://magicianslime.netlify.app)
+-  **Email:** kaifshaikh5006@proton.me
+-  **Instagram:** [@magicianslime](https://www.instagram.com/magicianslime/)
+-  **Telegram:** [t.me/magician_slime](https://t.me/magician_slime/)
+-  **Portfolio:** [magicianslime.netlify.app](https://magicianslime.netlify.app)
 
 ---
 
