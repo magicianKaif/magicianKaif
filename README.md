@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/magicianslime/"><img src="https://img.shields.io/badge/Instagram-magicianslime-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/magician_slime/"><img src="https://img.shields.io/badge/Telegram-unsec__dark-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/magician_slime/"><img src="https://img.shields.io/badge/Telegram-magician_slime-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:kaifshaikh5006@proton.me"><img src="https://img.shields.io/badge/ProtonMail-Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
   <a href="https://magicianslime.netlify.app"><img src="https://img.shields.io/badge/Portfolio-magicianslime-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
